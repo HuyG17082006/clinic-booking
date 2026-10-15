@@ -1,0 +1,7 @@
+.main{
+    h1{
+        text-align: center;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 10px;
+    }
+}
